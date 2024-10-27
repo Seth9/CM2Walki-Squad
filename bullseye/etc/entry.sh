@@ -51,7 +51,7 @@ else
 fi
 
 bash "${STEAMAPPDIR}/SquadGameServer.sh" \
-      "${MULTIHOME_PARAM}" \
+			"${MULTIHOME_PARAM}" \
 			Port="${PORT}" \
 			QueryPort="${QUERYPORT}" \
 			RCONPORT="${RCONPORT}" \

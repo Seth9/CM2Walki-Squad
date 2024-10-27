@@ -41,6 +41,6 @@ CMD ["bash", "entry.sh"]
 
 # Expose ports
 EXPOSE 7787/udp \
-    15000/udp \
+	15000/udp \
 	27165/udp \
 	21114/tcp \
